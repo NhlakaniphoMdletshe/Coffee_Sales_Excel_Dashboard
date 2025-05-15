@@ -23,8 +23,10 @@ Created with guidance from @Mo Chen's YouTube channel
 - Meet top spenders like Green Dundledge (307), Brick Romero(307), and BrickRomero (246)
 
 ## 🎓 Learning Journey
-- This dashboard was built following @Mo Chen's expert Excel tutorials, mastering:
-• PivotTable magic • Slicer synchronization • Chart storytelling
+This dashboard was built following @Mo Chen's expert Excel tutorials, mastering:
+- PivotTables
+- Slicer synchronization
+- Chart storytelling
 
 ## 🚀 Quick Start
 - Grab the Excel file
