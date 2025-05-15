@@ -30,5 +30,5 @@ Created with guidance from @Mo Chen's YouTube channel
 - Grab the Excel file
 - Play with the interactive filters
 - Discover hidden sales patterns
-💡 Pro Tip: The "All Periods" button resets your view like an espresso reset!
+- 💡 Pro Tip: The "All Periods" button resets your view like an espresso reset!
 
